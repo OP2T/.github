@@ -1,62 +1,60 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OP2T/brand/main/logo/op2t-icon.svg" width="100" alt="OP2T">
+</p>
+<h1 align="center">OP2T</h1>
+<p align="center"><b>同行探海，一步致远</b></p>
+<p align="center"><i>Sail Together, Step Beyond</i></p>
 
-# ⛵ OP2T
-
-**From OP to Tech. One Step Beyond.​**
-
-*One Step for All.*
-
-[![Website](https://img.shields.io/badge/website-op2t.com-blue?style=for-the-badge)](https://www.op2t.com)
-[![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/OP2T)
-
-</div>
-
----
-
-## 🏴 ☠️ Who We Are
-
-We are a crew of dreamers and builders — inspired by the spirit of **One Piece**: a group of like-minded friends sailing toward a shared treasure, doing something that truly matters together.
-
-**OP2T** stands for **One Piece to Technology** — from dreams, through code, to reality.
-
-## 🧭 Our Three Pillars
-
-| Pillar | Meaning | We Believe |
-|--------|---------|------------|
-| 🏴 ☠️ **OP** (One Piece) | Companionship & Voyage | The treasure is the journey we share, not the destination alone |
-| ⚙️ **Tech** (Technology) | Tech for People | Every line of code should make someone's life better |
-| 👣 **Step** (OneStep) | Ultimate Experience | One step done right is worth a thousand half-steps |
-
-## 🗺️ Our Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| *[Coming Soon]* | *FSAnalytics* | 🚧 |
-
-> 📌 Existing projects are being migrated here. Stay tuned!
-
-## ⚓ Join the Crew
-
-We welcome every dreamer who wants to build meaningful technology. Here's how you can come aboard:
-
-1. ⭐ Star our projects
-2. 🍴 Fork and submit Pull Requests
-3. 🐛 Report bugs via Issues
-4. 💬 Start discussions with your ideas
-
-> *The Grand Line is dangerous to sail alone. Join us — we sail together.*
-
-## 🔗 Links
-
-- 🌐 Website: [op2t.com](https://www.op2t.com)
-- 🐙 GitHub: [github.com/OP2T](https://github.com/OP2T)
+<p align="center">
+  <a href="https://www.op2t.com">🌐 Website</a> •
+  <a href="https://dailies.op2t.com">🎬 DailiesPro</a> •
+  <a href="https://github.com/orgs/OP2T/discussions">💬 Discussions</a>
+</p>
 
 ---
 
-<div align="center">
+## 🧭 我们是谁
 
-*From OP to Tech — Where dreams set sail, and steps turn into reality.*
+五百年前，探险家仅凭罗盘与星象驶入未知海域。今天，技术领域同样是一片待探索的大洋。
 
-**op2t.com**
+**OP2T** — 我们用代码构建工具，让每一步探索都更高效、更可靠。
 
-</div>
+### OPTechStep 精神
+
+OPTechStep 是我们的核心理念：
+
+- **Ocean Path** — 如航海者探索未知，用代码开辟新路
+- **Technology** — 技术是我们的罗盘与舰船
+- **Step** — 稳扎稳打，一步致远
+
+---
+
+## ⛵ 项目
+
+| 项目 | 描述 | 语言 | 状态 |
+|------|------|------|------|
+| [step-fs](./step-fs) | 极速文件结构扫描与 README 生成器 | Zig | 🟢 Active |
+| *更多项目中...* | — | — | ⏳ |
+
+---
+
+## 🧭 参与贡献
+
+大航海时代，没有人独自远航。
+
+1. ⭐ Star 你感兴趣的项目
+2. 🍴 Fork 并提交 Pull Request
+3. 🐛 通过 Issues 报告问题
+4. 💬 在 Discussions 分享想法
+
+---
+
+## 🔗 链接
+
+- 🌐 官网: [op2t.com](https://www.op2t.com)
+- 🎬 产品: [DailiesPro](https://dailies.op2t.com)
+- 🐙 组织: [github.com/OP2T](https://github.com/OP2T)
+
+---
+
+*同行探海，一步致远。Sail Together, Step Beyond.*
