@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OP2T/brand/main/logo/op2t-icon.svg" width="100" alt="OP2T">
-</p>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 100"
+     fill="none">
+  <circle cx="50" cy="50" r="46"
+          stroke="currentColor"
+          stroke-width="4"/>
+  <circle cx="50" cy="50" r="4"
+          fill="currentColor"/>
+  <path
+    d="
+      M50 50
+      L78 22
+      L70 22
+      M78 22
+      L78 30
+    "
+    stroke="currentColor"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+</svg>
+
 <h1 align="center">OP2T</h1>
 <p align="center"><b>同行探海，一步致远</b></p>
 <p align="center"><i>Sail Together, Step Beyond</i></p>
